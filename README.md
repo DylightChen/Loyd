@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DylightChen&show_icons=true&hide_border=true" />
+<img width="50%" align="left" src="https://n.sinaimg.cn/sinakd2021521s/82/w1080h602/20210521/bcf7-kqhwhrk8835088.jpg">
 <!--
 **DylightChen/DylightChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
