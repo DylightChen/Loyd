@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Front-end , 
 - 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 I want to help other people,But at the moment I should need help from others T.T
+- 💬 I hope to helps,But at the moment I need help from others T.T
 <!-- <img width="50%" align="right" src="https://n.sinaimg.cn/sinakd2021521s/82/w1080h602/20210521/bcf7-kqhwhrk8835088.jpg"> -->
 <!--
 **DylightChen/DylightChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
