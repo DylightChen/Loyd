@@ -1,7 +1,7 @@
 ### Hi there 👋  , 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Dylight Chen</h1>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=DylightChen&show_icons=true&hide_border=true&theme=dark" height="auto"  alt="img" width="40%" align="right" />
+
 
 - 🔭 I’m Front-end developer.
 - 🌱 I’m keep learning Front-end .
